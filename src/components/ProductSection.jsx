@@ -5,7 +5,7 @@ export default function ProductSection() {
     <div className="grid mt-8 grid-cols-1 md:grid-cols-2 mb-16">
       <div className="flex justify-end md:justify-center mt-2">
         <img
-          src="https://placehold.co/300x400"
+          src="product.png"
           alt="Double-Sided Steel Brush"
           className="w-full max-w-sm"
         />
